@@ -1,5 +1,4 @@
-## Hey! Nice to see you
-## Hi there 👋
+## Hey! Nice to see you 👋
 
 <!--
 **Ruchisingh13/Ruchisingh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
