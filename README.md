@@ -1,6 +1,6 @@
 # Hey! Nice to see you.
 
-<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Ruchi Singh </h1>
+<h1 align="center">Hi 👋 <img width="45" src="waving_hand.gif">, I'm Ruchi Singh </h1>
 <p align="center">
 </p>
 <h3 align="center">🚩 A Data Analyst  From India. 🚩
@@ -33,7 +33,7 @@
 
 - 🔭 I’m currently working as **Machine Learning Engineer with NLP specialaization** at **Upflairs.com Pvt. Ltd. jaipur Rajasthan**
   
-- ⚡ My specialaization in **Python ,Java , c/c++ , SQL , ML , DL , NLP , Computer Vision , Generative ai , and Big Data handling **
+- ⚡ My specialaization in **Python ,Java , c/c# , SQL , ML , DL , NLP , Computer Vision , Generative ai , and Big Data handling **
   
 - ⚡ Dealing with **Large language models**, utilizing **GenerativeAi tools & techniques** , develop cutting edge applications.
 
