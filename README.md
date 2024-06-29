@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi , I'm Ruchi Singh
+🚩 A Data Scientist From India. 🚩
+git gitlab JAVA python  google cloud Linux docker pytorch TensorFlow cplusplus css3
+
+aws azure c cplusplus git java linux mongodb mysql nodejs oracle pandas python scikit_learn seaborn tensorflow  
+
+💕---> DATA LOVER <---💕
+❣
