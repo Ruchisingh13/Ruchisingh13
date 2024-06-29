@@ -1,6 +1,6 @@
 # Hey! Nice to see you.
 
-<h1 align="center">Hi 👋 <img width="45" src="waving_hand.gif">, I'm Ruchi Singh </h1>
+<h1 align="center">Hi 👋 <img width="45" src="waving_hand.gif">,I'm Ruchi Singh </h1>
 <p align="center">
 </p>
 <h3 align="center">🚩 A Data Analyst  From India. 🚩
@@ -43,7 +43,7 @@
 
 - 😎 **Providing Data Science and machine learning**  training on upflairs Pvt. Ltd. jaipur Rajasthan.
 
-- 💻 Check my Projects and other Repos [HERE.](https://github.com/Ruchi-Singh-13?tab=repositories)
+- 💻 Check my Projects and other Repos [HERE.](https://github.com/Ruchisingh13)
 
 
 
