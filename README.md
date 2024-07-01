@@ -1,6 +1,6 @@
 # Hey! Nice to see you.
 
-<h1 align="center">Hi 👋 <img width="45" src="waving_hand.gif">,I'm Ruchi Singh </h1>
+<h1 align="center">Hi 👋<img width="45" src="waving_hand.gif">,I'm Ruchi Singh </h1>
 <p align="center">
 </p>
 <h3 align="center">🚩 A Data Analyst  From India. 🚩
