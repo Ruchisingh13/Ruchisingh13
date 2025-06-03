@@ -73,6 +73,7 @@
     <a href="https://www.heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> </a>
     <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> </a> 
     <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/> </a>
+    <a href="https://www.qt.io/qt-for-python" target="_blank"> <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=Qt&logoColor=white"/> </a>
 </p>
 <br/>
 
