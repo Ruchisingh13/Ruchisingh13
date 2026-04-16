@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2088FF&center=true&vCenter=true&width=800&lines=Hi+There!+%F0%9F%91%8B;I'm+Ruchi+Singh;Data+Analyst+%7C+Machine+Learning+Enthusiast;Building+AI+%26+Data-Driven+Solutions)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38bdf8&center=true&vCenter=true&width=800&lines=Hi+There!+%F0%9F%91%8B;I'm+Ruchi+Singh;Data+Analyst+%7C+Machine+Learning+Enthusiast;Building+AI+%26+Data-Driven+Solutions)](https://git.io/typing-svg)
   
   ### 🚀 Machine Learning Engineer & Data Analyst
   
@@ -90,14 +90,14 @@ Here are a few projects I've worked on recently:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruchisingh13&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchisingh13&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruchisingh13&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchisingh13&theme=dark&hide_border=true" width="48%">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchisingh13&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchisingh13&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="60%">
   <br>
   <br>
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruchisingh13&theme=react-dark&hide_border=true&area=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruchisingh13&theme=github-dark&hide_border=true&area=true" width="100%">
 </div>
 
 ---
