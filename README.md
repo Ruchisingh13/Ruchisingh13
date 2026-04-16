@@ -1,124 +1,110 @@
-<!-- Header Section -->
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38bdf8&center=true&vCenter=true&width=800&lines=Hi+There!+%F0%9F%91%8B;I'm+Ruchi+Singh;Data+Analyst+%7C+Machine+Learning+Enthusiast;Building+AI+%26+Data-Driven+Solutions)](https://git.io/typing-svg)
-  
-  ### 🚀 Machine Learning Engineer & Data Analyst
-  
-  <p align="center">
-    <a href="https://github.com/Ruchisingh13"><img src="https://img.shields.io/github/followers/Ruchisingh13?label=Followers&style=social" alt="GitHub followers"></a>
-    <a href="https://www.linkedin.com/in/ruchi-singh-393016241/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
-  </p>
+<h1 align="center">Hi 👋, I'm Ruchi Singh</h1>
+<h3 align="center">Data Analyst / Machine Learning Enthusiast</h3>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <a href="https://www.linkedin.com/in/Ruchisingh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ruchisingh748828@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.behance.net/Ruchisingh"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ruchisingh13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<br>
+
+<img align="right" alt="Coding GIF" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+### 👨‍💻 About Me
+- 🔭 I am currently working on **real-world ML projects and data analysis**
+- 🌱 I’m currently diving deep into **Advanced Machine Learning** & **IoT Integration**
+- 👯 I’m open to remote work and collaborations on **Data Science & ML projects**
+- 🎯 My Goal: **To secure a role as a Data Analyst / ML Engineer in a leading tech company**
+- ⚡ Fun fact: **I love transforming raw numbers into meaningful stories!**
+
+---
+
+### 🛠️ Skills & Technologies
+
+**Programming Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+</p>
+
+**Data Analysis & Machine Learning**
+<p align="left">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</p>
+
+**Web/App Development & IoT**
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 1. 🌱 AI-Based Soil Condition Forecasting System
+- **Description:** Developed an intelligent system using IoT (7-in-1 Soil Sensor) and Machine Learning to predict soil conditions in real-time. Built an interactive dashboard to forecast fertility trends and support precision agriculture.
+- **Technologies:** `Python`, `Machine Learning`, `Arduino`, `IoT`, `Data Visualization`, `Cloud Storage`
+
+#### 2. 📊 Tata Group Data Analytics Virtual Experience | Forage
+- **Description:** Performed exploratory data analysis (EDA) using AI tools to identify data quality issues and risk indicators. Developed a no-code predictive model framework for customer delinquency risk assessment and designed an AI-driven collections strategy.
+- **Technologies:** `Data Analytics`, `Predictive Modeling`, `AI`, `EDA`
+
+#### 3. 📈 Dual-Spectrometer Data Acquisition System
+- **Description:** Designed and developed a VB.NET-based application for simultaneous real-time data capture from dual spectrometers utilizing multithreading. Enabled live graph visualization, calibration, and automated data export.
+- **Technologies:** `VB.NET`, `Multithreading`, `Data Visualization`, `XML`, `CSV`
+
+---
+
+### 💼 Experience
+
+- **Intern, Reve Automation LLP** - Processed real-time sensor data, developed ML models for soil prediction, and built interactive dashboards.
+- **IBM Data Analytics Internship** - Worked on data analysis, visualization, and business insights using Excel & BI tools.
+- **Data Science & ML Internship, Upflairs Pvt Ltd** - Built ML models, performed data preprocessing, feature engineering, and evaluation.
+- **Machine Learning Internship, The Sparks Foundation** - Developed predictive models and worked on supervised learning techniques.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruchisingh13&show_icons=true&theme=radical" alt="Ruchi's GitHub stats" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchisingh13&layout=compact&theme=radical" alt="Top Languages" height="192px"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchisingh13&theme=radical" alt="Ruchi's GitHub Streak" />
 </div>
 
 ---
 
-## 👩‍💻 About Me
-
-I am a passionate **Data Analyst** and **Machine Learning Enthusiast**, currently working as a **Machine Learning Engineer with NLP specialization** at *Upflairs.com Pvt. Ltd. (Jaipur, Rajasthan)*. My goal is to leverage data correctly, uncover hidden patterns, and build AI-driven solutions to solve real-world problems.
-
-- 🔭 **Current Work:** Developing cutting-edge applications dealing with Large Language Models (LLMs) and Generative AI.
-- ⚡ **Specialties:** Python, SQL, Machine Learning, Deep Learning, NLP, Computer Vision, and Big Data.
-- 💡 **Data Engineering:** Experienced in handling both structured & non-structured data using MySQL, MongoDB, and AWS RDS.
-- ☁️ **Cloud Computing:** Hands-on experience with AWS services like EC2, ECR, RDS, EBS, IAM, S3, and SageMaker.
-- 👨‍🏫 **Mentorship:** Providing Data Science and Machine Learning training at Upflairs Pvt. Ltd.
-- 🎯 **Goal:** Looking forward to being placed in a top-tier tech company as a Data Analyst or ML Engineer.
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <b>Programming Languages & Databases</b><br>
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C%2F%2FC++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <b>Data Science, Machine Learning & AI</b><br>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/></a>
-  <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://img.shields.io/badge/Scikit_Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
-  <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <b>Data Visualization & BI</b><br>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/></a>
-  <a href="https://www.microsoft.com/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></a>
-  <a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <b>Cloud, DevOps & Tools</b><br>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/></a>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-Here are a few projects I've worked on recently:
-
-* **[Smart Resume Analyzer with NLP & AI](#)**
-  > - An AI-powered web app leveraging NLP and Machine Learning to parse, analyze, and optimize resumes for ATS compatibility.
-  > - **Tech Stack:** Python, NLP, Generative AI, Streamlit, Scikit-Learn.
-  
-* **[Predictive Analytics Pipeline for Retail Data](#)**
-  > - Designed a scalable data pipeline to predict customer churn and lifetime value using massive un-structured datasets.
-  > - **Tech Stack:** Python, Pandas, MySQL, Scikit-Learn, AWS RDS.
-  
-* **[Intelligent Document Search (RAG System)](#)**
-  > - Developed a Retrieval-Augmented Generation application that uses chunking, embeddings, and a Vector Database to query internal specific company data effortlessly.
-  > - **Tech Stack:** Python, LangChain, Hugging Face, OpenAI, MongoDB.
-
-*(Check out the rest of my repositories [here](https://github.com/Ruchisingh13) for more!)*
-
----
-
-## 📊 GitHub Analytics
+### 📫 Connect with Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruchisingh13&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchisingh13&theme=dark&hide_border=true" width="48%">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchisingh13&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="60%">
-  <br>
-  <br>
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruchisingh13&theme=github-dark&hide_border=true&area=true" width="100%">
+
+<a href="https://www.linkedin.com/in/Ruchisingh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.behance.net/Ruchisingh"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+<a href="https://github.com/Ruchisingh13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:ruchisingh748828@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </div>
 
----
-
-## 🤝 Let's Connect!
-
-I am always open to discussing new opportunities, collaborations, and all things data! Feel free to reach out.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ruchi-singh-393016241/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/silvanus_vanya/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <!-- Add your email below -->
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+<p align="center"><i>Thanks for visiting my profile! Let's build something awesome together.✨</i></p>
